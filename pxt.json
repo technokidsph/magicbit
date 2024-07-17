@@ -1,7 +1,7 @@
 {
     "name": "magicbit",
     "version": "1.0.0",
-    "description": "Emakefun magicbit expansion board",
+    "description": "Technokids magicbit expansion board",
     "license": "MIT",
     "dependencies": {
         "core": "*",
